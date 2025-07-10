@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Text über mich zu schreiben auf Englisch
+I'm carrently working on projekts in SQL, Python and Power BI and b
+
+How to reach me:
+
 <!--
 **Anna10208/Anna10208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
