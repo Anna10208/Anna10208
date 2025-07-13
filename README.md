@@ -1,9 +1,11 @@
 ## Hi there 👋
+I'm Hanna - a data analyst with over 10 years of experience in business process optimization across manufacturing, healthcare, and wholesale industries. I also have strong expertise in budgeting and reporting. Recently, I’ve focused on data-driven tools, building skills in Python, Excel, and Power BI.
 
-Text über mich zu schreiben auf Englisch
-I'm carrently working on projekts in SQL, Python and Power BI and b
+I’m passionate about clean structures, clear visuals, and solutions that save both time and sanity. Combining analytical thinking with business logic, I help teams make decisions based on data, not assumptions.
 
-How to reach me:
+🤝 I’m open to collaboration on practical data analysis projects or contributing to tools that enhance workflows.
+
+📫 Connect with me on LinkedIn: www.linkedin.com/in/hanna-shch
 
 <!--
 **Anna10208/Anna10208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
